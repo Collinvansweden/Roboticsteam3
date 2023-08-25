@@ -1,6 +1,8 @@
 # Roboticsteam3
 
 </div
-    <div class ="Description"
+    <div class ="Description">
 
-![image](https://github.com/Collinvansweden/Roboticsteam3/assets/142936402/634b4432-265c-4e1c-9d37-08dae88b453b)
+<ol>
+</li>![image](https://github.com/Collinvansweden/Roboticsteam3/assets/142936402/634b4432-265c-4e1c-9d37-08dae88b453b)</li>
+</ol>
