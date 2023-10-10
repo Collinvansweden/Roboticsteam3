@@ -14,3 +14,5 @@
 
 We are planning on adding a scoop/shovel mechanism to our bot that will push items as the bot moves along.
 ![robo](https://github.com/Collinvansweden/Roboticsteam3/assets/123413183/443a3ef3-54a7-4908-a07b-79dd90df5c3f)
+# drive the robot using tank drive
+tank_drive(y1, y2, left_motor, right_motor)
