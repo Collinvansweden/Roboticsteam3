@@ -3,7 +3,7 @@
 ![]()
 # Description of the bot
 
-#Team members are Adrien Roy, Vincnet Nguyen, Birkam Parmar, Collin Sweden,Brooklyn Sweden 
+#Team members are Adrien Roy - builder, Vincnet Nguyen - driver, Birkam Parmar - documentor, Collin Sweden - coder,Brooklyn Sweden - builder
 
 # 1. Burnout. A Three-Wheel vehicle with two wheels in the back and one wheel in the front. 
 
