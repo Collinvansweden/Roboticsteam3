@@ -16,7 +16,7 @@ We are planning on adding a scoop/shovel mechanism to our bot that will push ite
 ![robo](https://github.com/Collinvansweden/Roboticsteam3/assets/123413183/443a3ef3-54a7-4908-a07b-79dd90df5c3f)
 # drive the robot using tank drive
 tank_drive(y1, y2, left_motor, right_motor)
-![alt text]
-
-
-https://mail.google.com/mail/u/0?ui=2&ik=051fb0914e&attid=0.1&permmsgid=msg-f:1780847414442474973&th=18b6d749c1043ddd&view=att&disp=safe&realattid=18b6d738b8598691cd61
+# These are the pictures of the bot with different perspectives
+![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/20231026_132511.jpg?raw=true)
+![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/20231026_132501.jpg?raw=true)
+![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/20231026_132501.jpg?raw=true)
