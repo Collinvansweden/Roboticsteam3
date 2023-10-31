@@ -25,3 +25,5 @@ tank_drive(y1, y2, left_motor, right_motor)
 ![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/IMG-1523.jpg?raw=true)
 ![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/IMG-1522.jpg?raw=true)
 ![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/IMG-1521.jpg?raw=true)
+#Here is a picture of the code
+![alt text](https://github.com/myschoolac/Roboticsportfolio4B/blob/main/images/IMG_1520.jpg?raw=true)
